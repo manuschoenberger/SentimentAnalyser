@@ -1,0 +1,1615 @@
+{
+    "0": {
+        "index": 0,
+        "reviewTitle": "Love the quality",
+        "reviewBody": "2nd time purchased from this store",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Love",
+                    "aspect_word": "quality",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "neutral",
+            "sentiments": []
+        }
+    },
+    "1": {
+        "index": 1,
+        "reviewTitle": "Nice",
+        "reviewBody": "Very comfortable",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "nice",
+                    "aspect_word": "",
+                    "aspect_sentiment": ""
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "comfortable",
+                    "aspect_word": "comfort",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "3": {
+        "index": 3,
+        "reviewTitle": "More shedding than my dog!!",
+        "reviewBody": "I wanted to like the bed and at first it worked great, it fit perfectly in my dogs crate and he seemed to be comfortable enough with it. HOWEVER, it sheds like CRAZY! I had read a review talking about that, but I decided to buy it anyways cus it could\u2019ve just been their bed. Turns out it\u2019s mine too. Every single day I would have to vacuum inside and around on the outside of his crate because the fur balls that would come off the bed were so much that they would get carried out around the living room (where the crates at) by the normal inside air. It was so annoying. Not to mention my dog has allergies and the amount of fur that came off the bed was very uncomfortable for him to the point he couldn\u2019t sleep in his crate with that bed. It was a problem for me because his crate doesn\u2019t have a base (it was a hand-me-down crate) so the bed had to be there or he would be even more uncomfortable. Anyway, point is this bed although seemed to work for the price, now has to been thrown away because it is completely useless to me and no amount of vacuuming stops the fur from coming off. I imagine the bed would have to be furless for that to happen. So waste of money there.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "shedding",
+                    "aspect_word": "bed",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "bed",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "shed",
+                    "aspect_word": "bed",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "annoying",
+                    "aspect_word": "fur balls",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "uncomfortable",
+                    "aspect_word": "dog",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "useless",
+                    "aspect_word": "bed",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "problem",
+                    "aspect_word": "bed",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "4": {
+        "index": 4,
+        "reviewTitle": "love this cup",
+        "reviewBody": "Perfect for  cup of tea",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "cup",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Perfect",
+                    "aspect_word": "cup of tea",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "5": {
+        "index": 5,
+        "reviewTitle": "Colorful and looks nice on my front porch.",
+        "reviewBody": "Perfect for what I needed.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "colorful",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "nice",
+                    "aspect_word": "appearance",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "perfect",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "6": {
+        "index": 6,
+        "reviewTitle": "Size",
+        "reviewBody": "Great for small kitchens, highly effective (:",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "size",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "size",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "effective",
+                    "aspect_word": "kitchens",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "7": {
+        "index": 7,
+        "reviewTitle": "Great hat",
+        "reviewBody": "Great hat",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "hat",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "hat",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "8": {
+        "index": 8,
+        "reviewTitle": "Overall a beautiful puzzle",
+        "reviewBody": "Love him!! Been waiting to get him for a while and now he's finally part of my collection. I say it's easy to assemble because of experience, if you're a first-timer for the Crystal Puzzles he might be a little easy to do, just depends. Arrived within two days of shipping and he's a beautiful light ocean blue, stands out from a lot of the main colored puzzles I have.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "beautiful",
+                    "aspect_word": "puzzle",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Love",
+                    "aspect_word": "him",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "beautiful",
+                    "aspect_word": "light ocean blue",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "assemble",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "Arrived",
+                    "aspect_word": "shipping",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "9": {
+        "index": 9,
+        "reviewTitle": "For everyone who loves maple syrup",
+        "reviewBody": "Love the flavor. This is the first real great tasting sugar-free maple syrup that I have ever bought.",
+        "sentimentTitle": {
+            "overall_score": "neutral",
+            "sentiments": []
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Love",
+                    "aspect_word": "flavor",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "tasting",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "first",
+                    "aspect_word": "real great tasting sugar-free maple syrup",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "10": {
+        "index": 10,
+        "reviewTitle": "Great",
+        "reviewBody": "So easy to use and made my winter mornings so much quicker. It\u2019s fast to install and easy to take take off. The video tutorial they have for this product was also very helpful.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Great",
+                    "aspect_word": "None",
+                    "aspect_sentiment": "neutral"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "use",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "quick",
+                    "aspect_word": "winter mornings",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "fast",
+                    "aspect_word": "install",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "take off",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "very helpful",
+                    "aspect_word": "video tutorial",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "11": {
+        "index": 11,
+        "reviewTitle": "Black garlic",
+        "reviewBody": "I like the product , I eat one every day great taste",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "garlic",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "Black",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "like",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "eat",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "taste",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "12": {
+        "index": 12,
+        "reviewTitle": "The black face mask looks exceptional.",
+        "reviewBody": "Love the look of these face masks except for the colors. The black one is very nice & looks phenomenal. The other colors not so much.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "looks",
+                    "aspect_word": "face mask",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "exceptional",
+                    "aspect_word": "face mask",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "mixed",
+            "sentiments": [
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "look of these face masks",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "nice",
+                    "aspect_word": "black one",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "phenomenal",
+                    "aspect_word": "face mask (black)",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "except",
+                    "aspect_word": "colors",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "not so much",
+                    "aspect_word": "other colors",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "13": {
+        "index": 13,
+        "reviewTitle": "Broken",
+        "reviewBody": "Broken, not functioning. The string is cut so it won\u2019t open. I will be returning it!!!",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "broken",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "broken",
+                    "aspect_word": "string",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "functioning",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "cut",
+                    "aspect_word": "string",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "returning",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "14": {
+        "index": 14,
+        "reviewTitle": "Amazing",
+        "reviewBody": "So I got the one size regular. I am 5\u20196 and 176 lbs. I also have a little baby pouch from having kids lol when I first looked at them upon delivery they looked small. I tried them on. There was some extra leg length that bunches up some but not bad. They\u2019re extremely soft. They hid my pouch pretty well. I can also lift my legs high and squat with no feeling of gaining tightness on my legs or anywhere. So they are pretty stretchy as well. I\u2019m happy with them.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Amazing",
+                    "aspect_word": null,
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "soft",
+                    "aspect_word": "leg length",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "hide",
+                    "aspect_word": "baby pouch",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "stretchy",
+                    "aspect_word": null,
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "happy",
+                    "aspect_word": null,
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "15": {
+        "index": 15,
+        "reviewTitle": "Dry gas shiing",
+        "reviewBody": "Works well",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "dry",
+                    "aspect_word": "gas",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "shiing",
+                    "aspect_word": "gas shiing",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "works",
+                    "aspect_word": "wellness (implied)",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "16": {
+        "index": 16,
+        "reviewTitle": "Expensive for what you get",
+        "reviewBody": "I use 9 gallons of water to fertilize all my succulents on the porch. One entire bottle is only good for 8 gallons.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "expensive",
+                    "aspect_word": "price",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "value",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "only",
+                    "aspect_word": "quantity of product",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "17": {
+        "index": 17,
+        "reviewTitle": "Perfect family beach towel",
+        "reviewBody": "This is the perfect beach towel! I wanted something large enough to fit me, my husband, and my young daughter comfortably, along with all of our beach gear that we want to protect from sand. It comes with stakes and packets to fill with sand to weigh it down, which is great so I don\u2019t have to worry about putting something in each corner. I also intend to use this inside our beach tent to make it more waterproof. It\u2019s light weight and small when packed up. A must-have for every beachgoer.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Perfect",
+                    "aspect_word": "family beach towel",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "large",
+                    "aspect_word": "beach gear",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "stakes and packets to fill with sand",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "light",
+                    "aspect_word": "weight",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "small",
+                    "aspect_word": "when packed up",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "must-have",
+                    "aspect_word": "every beachgoer",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "18": {
+        "index": 18,
+        "reviewTitle": "Not worth the money",
+        "reviewBody": "I purchased this as a gift once the child received it it did not work it was poorly made and a waste of money. Wanted to return and it cost just as much to ship it back as the item itself.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "not",
+                    "aspect_word": "worth",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "did",
+                    "aspect_word": "work",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "poorly",
+                    "aspect_word": "made",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "waste",
+                    "aspect_word": "of money",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "19": {
+        "index": 19,
+        "reviewTitle": "Did not fit",
+        "reviewBody": "Bought this for 2014 Dodge Dart SXT and they did not fit.  Perhaps not compatible with alloy wheels?  They should specify wheel type in fit guide.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "did not fit",
+                    "aspect_word": "fit",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "not compatible",
+                    "aspect_word": "compatibility with alloy wheels",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "should specify",
+                    "aspect_word": "fit guide",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "20": {
+        "index": 20,
+        "reviewTitle": "Easy to clean",
+        "reviewBody": "I love how durable the straws are and it's easy to clean. My children love the straws.  I normally use them at work to avoid displaying plastic straw.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Easy",
+                    "aspect_word": "cleaning",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "to",
+                    "aspect_word": null,
+                    "aspect_sentiment": null
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "straws",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "durable",
+                    "aspect_word": "straws",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "clean",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "straws",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "use",
+                    "aspect_word": null,
+                    "aspect_sentiment": null
+                }
+            ]
+        }
+    },
+    "21": {
+        "index": 21,
+        "reviewTitle": "As advertised.",
+        "reviewBody": "Excellent braze alloy. Will buy again.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "advertised",
+                    "aspect_word": "product/description",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Excellent",
+                    "aspect_word": "braze alloy",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "buy",
+                    "aspect_word": "product/service",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "23": {
+        "index": 23,
+        "reviewTitle": "Proven in a 24hr adventure race",
+        "reviewBody": "I wore these for a 24hr adventure race and was pleased. I was worried my backside would get overly sore with 90+ miles of biking but faired no worse than I\u2019d expect to in fully padded bike shorts. They held up well over 30+ miles of trekking in that race with no chaffing or discomfort. I did wear UA boxer briefs underneath as I could feel the seam of the pad against my skin without them and didn\u2019t want to risk irritation over that distance.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Proven",
+                    "aspect_word": "performance",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "pleased",
+                    "aspect_word": "feeling",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "worried",
+                    "aspect_word": "backside",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "faired",
+                    "aspect_word": "performance",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "held",
+                    "aspect_word": "performance",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "no",
+                    "aspect_word": "chaffing",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "well",
+                    "aspect_word": "performance",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "risk",
+                    "aspect_word": "irritation",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "24": {
+        "index": 24,
+        "reviewTitle": "Great",
+        "reviewBody": "Great! It works.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Great",
+                    "aspect_word": "",
+                    "aspect_sentiment": ""
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Great",
+                    "aspect_word": "",
+                    "aspect_sentiment": ""
+                },
+                {
+                    "sentiment_word": "works",
+                    "aspect_word": "product/feature",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "25": {
+        "index": 25,
+        "reviewTitle": "Do not buy",
+        "reviewBody": "Already fading to white.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "do",
+                    "aspect_word": "buying",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "fading",
+                    "aspect_word": "quality/color",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "26": {
+        "index": 26,
+        "reviewTitle": "not as pictured",
+        "reviewBody": "I ordered this because the picture shows a splash guard with a cut out at the narrow end to hold the down spout.  The one that arrived did not have this feature and so, is of no use to me. Will be returning.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "not",
+                    "aspect_word": "picture",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "as",
+                    "aspect_word": "pictured",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "ordered",
+                    "aspect_word": "this",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "have",
+                    "aspect_word": "feature",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "use",
+                    "aspect_word": "me",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "returning",
+                    "aspect_word": "this",
+                    "aspect_sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    "27": {
+        "index": 27,
+        "reviewTitle": "Just buy it",
+        "reviewBody": "Just what i needed. Fast shipping.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "just",
+                    "aspect_word": null,
+                    "aspect_sentiment": null
+                },
+                {
+                    "sentiment_word": "buy",
+                    "aspect_word": null,
+                    "aspect_sentiment": null
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "just",
+                    "aspect_word": "what i needed",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "fast",
+                    "aspect_word": "shipping",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "28": {
+        "index": 28,
+        "reviewTitle": "Good Product",
+        "reviewBody": "It is very easy to use and clean So far the food has been good",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "use",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "clean",
+                    "aspect_word": "clean",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "food",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "30": {
+        "index": 30,
+        "reviewTitle": "Get a grip. literally",
+        "reviewBody": "Fits my huge hands well. a little awkward to clip on (you gotta thread the wrist strap through a hole in the bottom, and must be taken off to replace the batteries, but once they're on, they aren't moving.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "literally",
+                    "aspect_word": null,
+                    "aspect_sentiment": null
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "fits",
+                    "aspect_word": "hands",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "awkward",
+                    "aspect_word": "clip on",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "31": {
+        "index": 31,
+        "reviewTitle": "Easy to use.",
+        "reviewBody": "It\u2019s very handy. Light and easy to use.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "use",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "very",
+                    "aspect_word": "handy",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "light",
+                    "aspect_word": "use",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "32": {
+        "index": 32,
+        "reviewTitle": "comfortable",
+        "reviewBody": "works great",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "comfortable",
+                    "aspect_word": "comfort",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "product/feature",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "works",
+                    "aspect_word": "functionality",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "33": {
+        "index": 33,
+        "reviewTitle": "Great value, durable product",
+        "reviewBody": "Bought for the overall value since a toddler bucket seat is on average $40-$50... and I'm very satisfied. The bucket seat is great quality, and now I have a spare swing, and my 6 year old loves the wheel spinning thing..",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Great",
+                    "aspect_word": "value",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "durable",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "satisfied",
+                    "aspect_word": "value",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "quality",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "loves",
+                    "aspect_word": "wheel spinning thing",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "34": {
+        "index": 34,
+        "reviewTitle": "Love this Washi Tape & I will buy again",
+        "reviewBody": "I love this Washi tape. I use it around the borders of my Diamond Paintings. It holds up very well. The colors are beautiful. I will be buying again.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Love",
+                    "aspect_word": "Washi Tape",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "buy",
+                    "aspect_word": "again",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "Washi tape",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "use",
+                    "aspect_word": "the borders of my Diamond Paintings",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "holds up very well",
+                    "aspect_word": "very well",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "beautiful",
+                    "aspect_word": "colors",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "buying again",
+                    "aspect_word": "again",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "35": {
+        "index": 35,
+        "reviewTitle": "Worth the buy, but......",
+        "reviewBody": "I wished it would have had a plastic covering to protect the photo I inserted.  Other than that it\u2019s pretty nice.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Worth",
+                    "aspect_word": "buy",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "but",
+                    "aspect_word": "",
+                    "aspect_sentiment": ""
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "wished",
+                    "aspect_word": "plastic covering",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "would have had",
+                    "aspect_word": "plastic covering",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "protect",
+                    "aspect_word": "photo I inserted",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "pretty nice",
+                    "aspect_word": "",
+                    "aspect_sentiment": ""
+                }
+            ]
+        }
+    },
+    "36": {
+        "index": 36,
+        "reviewTitle": "Perfectly bright!",
+        "reviewBody": "Perfect gift for my teenage daughter who practices applying makeup.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "bright",
+                    "aspect_word": "light quality",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Perfect",
+                    "aspect_word": "gift",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "perfect",
+                    "aspect_word": "makeup application experience for teenage daughter",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "37": {
+        "index": 37,
+        "reviewTitle": "I will be buying the black purse I love this",
+        "reviewBody": "I love the quality of this purse, and yes, I will buy the black one as well. It\u2019s very sophisticated, it looks expensive it\u2019s lightweight and very classy",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "this",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "buying",
+                    "aspect_word": "the black purse",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "quality",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "will buy",
+                    "aspect_word": "the black one",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "sophisticated",
+                    "aspect_word": "this purse",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "looks",
+                    "aspect_word": "expensive",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "lightweight",
+                    "aspect_word": "this purse",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "classy",
+                    "aspect_word": "this purse",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "38": {
+        "index": 38,
+        "reviewTitle": "Easy to use",
+        "reviewBody": "Good product, fast shipping,easy to use",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "use",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "product",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "fast",
+                    "aspect_word": "shipping",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "use",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "39": {
+        "index": 39,
+        "reviewTitle": "YAY!",
+        "reviewBody": "I so appreciate taking 1/4  of a teaspoon of  Natural Vitality Calm #1 Selling Magnesium Citrate PLUS Calcium three times a day along with 1/4 of a teaspoon of Bragg's Apple Cider Vinegar. I highly recommend it to my loved ones. *Much Love* MV",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "YAY!",
+                    "aspect_word": "",
+                    "aspect_sentiment": ""
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "appreciate",
+                    "aspect_word": "Natural Vitality Calm #1 Selling Magnesium Citrate PLUS Calcium",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "recommend",
+                    "aspect_word": "it to my loved ones",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "highly",
+                    "aspect_word": "it to my loved ones",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "40": {
+        "index": 40,
+        "reviewTitle": "Best ever",
+        "reviewBody": "Smells so good amd hair is shiny\ufffd",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "best",
+                    "aspect_word": "product/experience",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "smell/fragrance",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "shiny",
+                    "aspect_word": "hair/beauty",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "41": {
+        "index": 41,
+        "reviewTitle": "Still wondering where the bracelet is...",
+        "reviewBody": "I never received my free gift or the bracelet that was supposedly part of the package and what originally drew me to purchase this item out of the gate. The ring itself is of good quality and is comfortable to wear. I just wish for the money spent that the bracelet advertised with the item would have actually been included, because that was the deciding factor for me to purchase this item over others I had seen.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "wondering",
+                    "aspect_word": "where the bracelet is",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "received",
+                    "aspect_word": "free gift and bracelet",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "ring quality",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "comfortable",
+                    "aspect_word": "ring wear",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "wish",
+                    "aspect_word": "bracelet included with purchase",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "42": {
+        "index": 42,
+        "reviewTitle": "Lights Don\u2019t Last",
+        "reviewBody": "Easy to install, but adhesion ruins wall upon removal. Lights don\u2019t last long with brand new batteries.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "don't",
+                    "aspect_word": "Last",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "Easy",
+                    "aspect_word": "install",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "ruins",
+                    "aspect_word": "wall",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "don't last",
+                    "aspect_word": "Lights",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "44": {
+        "index": 44,
+        "reviewTitle": "Think I got a defect",
+        "reviewBody": "Had a pair before, great headphones and very comfortable.  What else can you say about AirPods.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "got",
+                    "aspect_word": "defect",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "headphones",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "comfortable",
+                    "aspect_word": "headphones",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "45": {
+        "index": 45,
+        "reviewTitle": "Great value",
+        "reviewBody": "Works great for the price! It was a little bulky but not heavy. Good for camping.",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Great",
+                    "aspect_word": "value",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Works",
+                    "aspect_word": "for the price",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "buly",
+                    "aspect_word": "size/weight",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "Good",
+                    "aspect_word": "camping",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "46": {
+        "index": 46,
+        "reviewTitle": "Is good to buy it",
+        "reviewBody": "I really do like and it worki really good",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "to buy it",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "like",
+                    "aspect_word": "it",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "it",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "47": {
+        "index": 47,
+        "reviewTitle": "Nice deal",
+        "reviewBody": "Mats work nice using for dead lifts, protects floor from damage",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Nice",
+                    "aspect_word": "deal",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "work",
+                    "aspect_word": "mats",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "nice",
+                    "aspect_word": "using for dead lifts",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "protects",
+                    "aspect_word": "floor from damage",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "48": {
+        "index": 48,
+        "reviewTitle": "Dead in 2 months",
+        "reviewBody": "Seemed to work pretty good but I\u2019ve had this for about two months and only used it to sharpen my kitchen knives and it\u2019s already dead. Unit seemed to run rather hot tbh. Went to sharpen my knife set and I got through two before a strong smell of melting plastic paired with extreme heat caused the unit to fail.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "Dead",
+                    "aspect_word": "product life",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "good",
+                    "aspect_word": "initial performance",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "hot",
+                    "aspect_word": "product temperature",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "dead",
+                    "aspect_word": "product life",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    }
+}

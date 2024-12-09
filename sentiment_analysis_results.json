@@ -1,0 +1,335 @@
+{
+    "1": {
+        "reviewTitle": "Not nice house",
+        "reviewBody": "This is not a nice house but I like the door",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "nice",
+                    "aspect_word": "house",
+                    "context": "Not nice house",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "nice",
+                    "aspect_word": "house",
+                    "context": "This is not a nice house but I like the door",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "like",
+                    "aspect_word": "door",
+                    "context": "This is not a nice house but I like the door",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "2": {
+        "reviewTitle": "Not made well",
+        "reviewBody": "I love this concept. I like to take baths and watch my netflix shows. Mine came and it wouldn't close all the way. I did not try it out since i was worried it wouldn't hold my phone in and would fall in the water. I forgot to return it on time, so its just sitting in my closet.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "made",
+                    "aspect_word": "*NONE*",
+                    "context": "Not made well",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "love",
+                    "aspect_word": "concept",
+                    "context": "I love this concept.",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "close",
+                    "aspect_word": "*NONE*",
+                    "context": "Mine came and it wouldn't close all the way.",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "try",
+                    "aspect_word": "*NONE*",
+                    "context": "I did not try it out since i was worried it wouldn't hold my phone in and would fall in the water.",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "hold",
+                    "aspect_word": "phone",
+                    "context": "I did not try it out since i was worried it wouldn't hold my phone in and would fall in the water.",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "3": {
+        "reviewTitle": "Not happy AT ALL",
+        "reviewBody": "If my daughter hadnt given her old tv stand away already, I would have returned this piece of junk, cant believe I spent 200.00 on it.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": []
+        },
+        "sentimentBody": {
+            "overall_score": "neutral",
+            "sentiments": [
+                {
+                    "sentiment_word": "given",
+                    "aspect_word": "daughter",
+                    "context": "If my daughter hadnt given her old tv stand away already, I would have returned this piece of junk, cant believe I spent 200.00 on it.",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "given",
+                    "aspect_word": "tv",
+                    "context": "If my daughter hadnt given her old tv stand away already, I would have returned this piece of junk, cant believe I spent 200.00 on it.",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "believe",
+                    "aspect_word": "*NONE*",
+                    "context": "If my daughter hadnt given her old tv stand away already, I would have returned this piece of junk, cant believe I spent 200.00 on it.",
+                    "aspect_sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    "4": {
+        "reviewTitle": "Is sturdy but canopy is not strong",
+        "reviewBody": "Canopy isn't strong enough",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": []
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": []
+        }
+    },
+    "5": {
+        "reviewTitle": "To work",
+        "reviewBody": "Is working as is supposed to, thank you",
+        "sentimentTitle": {
+            "overall_score": "neutral",
+            "sentiments": []
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": []
+        }
+    },
+    "6": {
+        "reviewTitle": "Can't Give a Good Rating if It Doesn't Work",
+        "reviewBody": "I bought this thing with high hopes but was very disappointed in the end. I followed all the instructions to install it and got to the point where you turn the power on and connect it to your network. When I did that, I didn't get the expected white LED lights on the doorbell. I got some other version that indicated a problem. When I went to find out what the lights meant, the first time I read that I had an inadequate transformer. Great! So my first issue with this system is that it can't work with transformers that are already in your house. You have to have a special transformer on your doorbell. If you have anything other than a modern home, you might want to check your transformer before getting this doorbell. Apparently there is not enough power in the standard transformer for this item.",
+        "sentimentTitle": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "Give",
+                    "aspect_word": "Rating",
+                    "context": "Can't Give a Good Rating if It Doesn't Work",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "Work",
+                    "aspect_word": "*NONE*",
+                    "context": "Can't Give a Good Rating if It Doesn't Work",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "get",
+                    "aspect_word": "LED lights",
+                    "context": "When I did that, I didn't get the expected white LED lights on the doorbell.",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "inadequate",
+                    "aspect_word": "transformer",
+                    "context": "When I went to find out what the lights meant, the first time I read that I had an inadequate transformer.",
+                    "aspect_sentiment": "negative"
+                },
+                {
+                    "sentiment_word": "work",
+                    "aspect_word": "*NONE*",
+                    "context": "So my first issue with this system is that it can't work with transformers that are already in your house.",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "special",
+                    "aspect_word": "transformer",
+                    "context": "You have to have a special transformer on your doorbell.",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "is",
+                    "aspect_word": "*NONE*",
+                    "context": "Apparently there is not enough power in the standard transformer for this item.",
+                    "aspect_sentiment": "neutral"
+                }
+            ]
+        }
+    },
+    "7": {
+        "reviewTitle": "Doesn't work",
+        "reviewBody": "This product doesn't work at all. I'm not sure if it's fake but I don't recommend.",
+        "sentimentTitle": {
+            "overall_score": "neutral",
+            "sentiments": [
+                {
+                    "sentiment_word": "work",
+                    "aspect_word": "*NONE*",
+                    "context": "Doesn't work",
+                    "aspect_sentiment": "neutral"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "negative",
+            "sentiments": [
+                {
+                    "sentiment_word": "work",
+                    "aspect_word": "product",
+                    "context": "This product doesn't work at all.",
+                    "aspect_sentiment": "neutral"
+                },
+                {
+                    "sentiment_word": "recommend",
+                    "aspect_word": "*NONE*",
+                    "context": "but I don't recommend.",
+                    "aspect_sentiment": "negative"
+                }
+            ]
+        }
+    },
+    "8": {
+        "reviewTitle": "Nice shoe",
+        "reviewBody": "Nice shoe just cut small",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Nice",
+                    "aspect_word": "shoe",
+                    "context": "Nice shoe",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Nice",
+                    "aspect_word": "shoe",
+                    "context": "Nice shoe just cut small",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "cut",
+                    "aspect_word": "shoe",
+                    "context": "Nice shoe just cut small",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "9": {
+        "reviewTitle": "It fit my printer",
+        "reviewBody": "Nothing yet",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "fit",
+                    "aspect_word": "printer",
+                    "context": "It fit my printer",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "neutral",
+            "sentiments": []
+        }
+    },
+    "10": {
+        "reviewTitle": "Fantastic quality",
+        "reviewBody": "True to size, these are an easy buy, affordable, and great quality overall!",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "Fantastic",
+                    "aspect_word": "quality",
+                    "context": "Fantastic quality",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "easy",
+                    "aspect_word": "buy",
+                    "context": "True to size, these are an easy buy, affordable, and great quality overall!",
+                    "aspect_sentiment": "positive"
+                },
+                {
+                    "sentiment_word": "great",
+                    "aspect_word": "quality",
+                    "context": "True to size, these are an easy buy, affordable, and great quality overall!",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    },
+    "11": {
+        "reviewTitle": "works good",
+        "reviewBody": "just as ordered",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": []
+        },
+        "sentimentBody": {
+            "overall_score": "neutral",
+            "sentiments": []
+        }
+    },
+    "12": {
+        "reviewTitle": "Nice House",
+        "reviewBody": "This is a nice tree house",
+        "sentimentTitle": {
+            "overall_score": "positive",
+            "sentiments": []
+        },
+        "sentimentBody": {
+            "overall_score": "positive",
+            "sentiments": [
+                {
+                    "sentiment_word": "nice",
+                    "aspect_word": "tree house",
+                    "context": "This is a nice tree house",
+                    "aspect_sentiment": "positive"
+                }
+            ]
+        }
+    }
+}
